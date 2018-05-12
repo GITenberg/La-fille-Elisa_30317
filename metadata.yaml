@@ -1,0 +1,35 @@
+_repo: La-fille-Elisa_30317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goncourt, Edmond de
+    aliases:
+    - Goncourt, Edmond Louis Antoine Huot de
+    - De Goncourt, Edmond
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '5693'
+    url: http://www.gutenberg.org/2009/agents/5693
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
+    - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30317'
+  lccn: '12020085'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Prostitutes -- France -- Fiction'
+- !lcc 'PQ'
+title: La fille Elisa
+url: http://www.gutenberg.org/ebooks/30317
