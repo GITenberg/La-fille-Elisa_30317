@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
     - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30317#La-fille-Elisa
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-10-23'
 gutenberg_type: Text
